@@ -10,6 +10,10 @@ theme: Simple, 1
 
 ---
 
+# You don't need a tool that tells you "Ooops, forgot a semicolon there!" when it can just remove it for you.
+
+---
+
 TODO: gif
 
 ---
