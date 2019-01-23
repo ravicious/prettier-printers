@@ -13,3 +13,6 @@ function fuzzy(buzzy) {
 //
 // However, if they don't fit on one line, prettier always splits them.
 const colors = ['white', 'black', 'red', 'green', 'blue', 'yellow', 'carmine']
+
+// What if we want to parse RubyScript and use mungabunga?
+const webpackConfig = { work: true, crash: 'please no' }
