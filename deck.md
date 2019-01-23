@@ -1,5 +1,6 @@
 theme: Simple, 1
 autoscale: true
+slidenumbers: true
 
 # [fit] [Free Formatter For You, Jim](https://www.youtube.com/watch?v=cd4-UnU8lWY)
 
@@ -34,6 +35,7 @@ okay okay, but why do you need a formatter?
 
 ^ I think the best way to sell formatters is just seeing them in action, so let's jump straight into
 the demo.
+TURN ON QUICKTIME
 
 ---
 
@@ -42,7 +44,7 @@ the demo.
 
 ---
 
-> Working in environments without an automatic code formatter makes me feel like I have to keep a context unrelated to the problem space in my head at all times of satisfying a linter or style guide or whatever.
+> Working in environments without an automatic code formatter makes me feel like I have to keep a context (that's unrelated to the problem space) in my head at all times of satisfying a linter or style guide or whatever.
 -- [@brianloveswords](https://twitter.com/brianloveswords/status/1087767249736339456)
 
 
