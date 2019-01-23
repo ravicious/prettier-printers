@@ -1,3 +1,5 @@
+set colorcolumn=80
+set textwidth=80
 let g:neoformat_elm_elmformat = {
       \ 'exe': nrun#Which('elm-format'),
       \ 'args': ['--stdin'],
